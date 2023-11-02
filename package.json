@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "daisyui": "^3.9.4",
-    "rayous": "^1.2.7",
+    "rayous": "^1.2.9",
     "tailwindcss-plugin-icons": "^2.2.0"
   },
   "devDependencies": {
