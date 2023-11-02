@@ -1,0 +1,22 @@
+{
+  "name": "rd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daisyui": "^3.9.4",
+    "rayous": "^1.2.7",
+    "tailwindcss-plugin-icons": "^2.2.0"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.55",
+    "@iconify/tailwind": "^0.1.3",
+    "mdi": "^2.2.43"
+  }
+}
